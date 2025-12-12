@@ -164,8 +164,8 @@
 * [resources](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/10_Resources/resources.txt) <br />
 
 ## 11_Survey
-* [(2021) (Arxiv) Pre-train, Prompt, and Predict - A Systematic Survey of Prompting Methods in Natural Language Processing](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/%282021%29%20%28Arxiv%29%20Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf) <br />
-* [(2024) (Arxiv) A Survey of Large Language Models for Recommendation](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/%282024%29%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models%20for%20Recommendation.pdf) <br />
-* [(2024) (Arxiv) A Survey of Multimodal Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/%282024%29%20%28Arxiv%29%20A%20Survey%20of%20Multimodal%20Large%20Language%20Models.pdf) <br />
-* [(2024) (Arxiv) Large Language Models for Information Retrieval - A Survey](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/%282024%29%20%28Arxiv%29%20Large%20Language%20Models%20for%20Information%20Retrieval%20-%20A%20Survey.pdf) <br />
-* [(2025) (Arxiv) A Survey of Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/%282025%29%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models.pdf) <br />
+* [2021 (Arxiv) Pre-train, Prompt, and Predict - A Systematic Survey of Prompting Methods in Natural Language Processing](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/2021%20%28Arxiv%29%20Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf) <br />
+* [2024 (Arxiv) A Survey of Large Language Models for Recommendation](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/2024%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models%20for%20Recommendation.pdf) <br />
+* [2024 (Arxiv) A Survey of Multimodal Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/2024%20%28Arxiv%29%20A%20Survey%20of%20Multimodal%20Large%20Language%20Models.pdf) <br />
+* [2024 (Arxiv) Large Language Models for Information Retrieval - A Survey](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/2024%20%28Arxiv%29%20Large%20Language%20Models%20for%20Information%20Retrieval%20-%20A%20Survey.pdf) <br />
+* [2025 (Arxiv) A Survey of Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_Survey/2025%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models.pdf) <br />
