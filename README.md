@@ -157,7 +157,7 @@
 * [2021 (Arxiv) (OpenAI) Evaluating Large Language Models Trained on Code](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2021%20%28Arxiv%29%20%28OpenAI%29%20Evaluating%20Large%20Language%20Models%20Trained%20on%20Code.pdf) <br />
 * [2022 (ACL) (OpenAI) TruthfulQA - Measuring How Models Mimic Human Falsehoods](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2022%20%28ACL%29%20%28OpenAI%29%20TruthfulQA%20-%20Measuring%20How%20Models%20Mimic%20Human%20Falsehoods.pdf) <br />
 * [2023 (NIPS) Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2023%20%28NIPS%29%20Judging%20LLM-as-a-Judge%20with%20MT-Bench%20and%20Chatbot%20Arena.pdf) <br />
-* [Chatbot Arena - An Open Platform for Evaluating LLMs by Human Preference](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/Chatbot%20Arena%20-%20An%20Open%20Platform%20for%20Evaluating%20LLMs%20by%20Human%20Preference.pdf) <br />
+* [2024 (Arxiv) Chatbot Arena - An Open Platform for Evaluating LLMs by Human Preference](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2024%20%28Arxiv%29%20Chatbot%20Arena%20-%20An%20Open%20Platform%20for%20Evaluating%20LLMs%20by%20Human%20Preference.pdf) <br />
 
 ## 10_Resources
 * [LLM book FDU zh](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/10_Resources/LLM%20book%20FDU%20zh.pdf) <br />
