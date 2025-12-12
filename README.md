@@ -107,9 +107,8 @@
 ## 04_RL
 * [2022 (OpenAI) (Arxiv) [PPO] Proximal Policy Optimization Algorithms](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/04_RL/2022%20%28OpenAI%29%20%28Arxiv%29%20%5BPPO%5D%20Proximal%20Policy%20Optimization%20Algorithms.pdf) <br />
 * [2023 (Stanford) (NIPS) [DPO] Direct Preference Optimization - Your Language Model is Secretly a Reward Model](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/04_RL/2023%20%28Stanford%29%20%28NIPS%29%20%5BDPO%5D%20Direct%20Preference%20Optimization%20-%20Your%20Language%20Model%20is%20Secretly%20a%20Reward%20Model.pdf) <br />
-* [2024 (ACL) ORPO - Monolithic Preference Optimization without Reference Model](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/04_RL/2024%20%28ACL%29%20ORPO%20-%20Monolithic%20Preference%20Optimization%20without%20Reference%20Model.pdf) <br />
+* [2024 (ACL) [ORPO] ORPO - Monolithic Preference Optimization without Reference Model](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/04_RL/2024%20%28ACL%29%20%5BORPO%5D%20ORPO%20-%20Monolithic%20Preference%20Optimization%20without%20Reference%20Model.pdf) <br />
 * [2024 (DeepSeek) (Arxiv) [GRPO] DeepSeekMath - Pushing the Limits of Mathematical Reasoning in Open Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/04_RL/2024%20%28DeepSeek%29%20%28Arxiv%29%20%5BGRPO%5D%20DeepSeekMath%20-%20Pushing%20the%20Limits%20of%20Mathematical%20Reasoning%20in%20Open%20Language%20Models.pdf) <br />
-* [2024 (DeepSeek) [GRPO] DeepSeekMath - Pushing the Limits of Mathematical Reasoning in Open Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/04_RL/2024%20%28DeepSeek%29%20%5BGRPO%5D%20DeepSeekMath%20-%20Pushing%20the%20Limits%20of%20Mathematical%20Reasoning%20in%20Open%20Language%20Models.pdf) <br />
 
 ## 05_Multi-Modal-LLMs
 * [2014 (ICML) [VAE] Auto-Encoding Variational Bayes](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/05_Multi-Modal-LLMs/2014%20%28ICML%29%20%5BVAE%5D%20Auto-Encoding%20Variational%20Bayes.pdf) <br />
