@@ -1,8 +1,5 @@
 
-## 00_Corporations
-
 ## 00_Organizations
-
 
 #### 0_OpenAI
 * [2017 (OpenAI) (NIPS) [RLHF] Deep Reinforcement Learning from Human Preferences](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/0_OpenAI/2017%20%28OpenAI%29%20%28NIPS%29%20%5BRLHF%5D%20Deep%20Reinforcement%20Learning%20from%20Human%20Preferences.pdf) <br />
