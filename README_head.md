@@ -1,1 +1,1 @@
-## Awesome papers in Large Language Models.
+## Awesome papers in Large Language Models (LLM).

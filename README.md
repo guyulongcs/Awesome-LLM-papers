@@ -1,4 +1,4 @@
-## Awesome papers in Large Language Models.
+## Awesome papers in Large Language Models (LLM).
 
 ## 00_Organizations
 
@@ -38,6 +38,7 @@
 * [2024 (Google) (Arxiv) [Gemini 1.5] Gemini 1.5 - Unlocking multimodal understanding across millions of tokens of context](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2024%20%28Google%29%20%28Arxiv%29%20%5BGemini%201.5%5D%20Gemini%201.5%20-%20Unlocking%20multimodal%20understanding%20across%20millions%20of%20tokens%20of%20context.pdf) <br />
 * [2024 (Google) (Arxiv) [Gemini] Gemini - A Family of Highly Capable Multimodal Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2024%20%28Google%29%20%28Arxiv%29%20%5BGemini%5D%20Gemini%20-%20A%20Family%20of%20Highly%20Capable%20Multimodal%20Models.pdf) <br />
 * [2024 (Google) (Arxiv) [Gemma] Gemma - Open Models Based on Gemini Research and Technology](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2024%20%28Google%29%20%28Arxiv%29%20%5BGemma%5D%20Gemma%20-%20Open%20Models%20Based%20on%20Gemini%20Research%20and%20Technology.pdf) <br />
+* [2024 (Google) (ICLR) [OPRO] Large Language Models as Optimizers](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2024%20%28Google%29%20%28ICLR%29%20%5BOPRO%5D%20Large%20Language%20Models%20as%20Optimizers.pdf) <br />
 * [2025 (Google (Arxiv) [SIGLIP2] SigLIP 2 - Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2025%20%28Google%20%28Arxiv%29%20%5BSIGLIP2%5D%20SigLIP%202%20-%20Multilingual%20Vision-Language%20Encoders%20with%20Improved%20Semantic%20Understanding%2C%20Localization%2C%20and%20Dense%20Features.pdf) <br />
 * [2025 (Google) (Arxiv) [Gemini 2.5] Gemini 2.5 - Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2025%20%28Google%29%20%28Arxiv%29%20%5BGemini%202.5%5D%20Gemini%202.5%20-%20Pushing%20the%20Frontier%20with%20Advanced%20Reasoning%2C%20Multimodality%2C%20Long%20Context%2C%20and%20Next%20Generation%20Agentic%20Capabilities.pdf) <br />
 * [2025 (Google) (Arxiv) [Gemma3] Gemma 3 Technical Report](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/00_Organizations/1_Google/2025%20%28Google%29%20%28Arxiv%29%20%5BGemma3%5D%20Gemma%203%20Technical%20Report.pdf) <br />
@@ -81,12 +82,16 @@
 
 ## 01_AlgorithmOptimization
 * [2017 (OpenAI) (Arxiv) [PPO] Proximal Policy Optimization Algorithms](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2017%20%28OpenAI%29%20%28Arxiv%29%20%5BPPO%5D%20Proximal%20Policy%20Optimization%20Algorithms.pdf) <br />
+* [2019 (ACL) [Sentence-BERT] Sentence-BERT - Sentence Embeddings using Siamese BERT-Networks](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2019%20%28ACL%29%20%5BSentence-BERT%5D%20Sentence-BERT%20-%20Sentence%20Embeddings%20using%20Siamese%20BERT-Networks.pdf) <br />
 * [2019 (Google) (Arxiv) [MQA] Fast Transformer Decoding - One Write-Head is All You Need](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2019%20%28Google%29%20%28Arxiv%29%20%5BMQA%5D%20Fast%20Transformer%20Decoding%20-%20One%20Write-Head%20is%20All%20You%20Need.pdf) <br />
 * [2019 (NIPS) [RMSNorm] Root Mean Square Layer Normalization](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2019%20%28NIPS%29%20%5BRMSNorm%5D%20Root%20Mean%20Square%20Layer%20Normalization.pdf) <br />
 * [2020 (Microsoft) On Layer Normalization in the Transformer Architecture](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2020%20%28Microsoft%29%20On%20Layer%20Normalization%20in%20the%20Transformer%20Architecture.pdf) <br />
 * [2022 (Microsoft) [DeepNorm] DeepNet - Scaling Transformers to 1,000 Layers](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2022%20%28Microsoft%29%20%5BDeepNorm%5D%20DeepNet%20-%20Scaling%20Transformers%20to%201%2C000%20Layers.pdf) <br />
 * [2023 (Arxiv) [ROPE] RoFormer - Enhanced Transformer with Rotary Position Embedding](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2023%20%28Arxiv%29%20%5BROPE%5D%20RoFormer%20-%20Enhanced%20Transformer%20with%20Rotary%20Position%20Embedding.pdf) <br />
 * [2023 (Google) (Arxiv)[GQA] GQA - Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/2023%20%28Google%29%20%28Arxiv%29%5BGQA%5D%20GQA%20-%20Training%20Generalized%20Multi-Query%20Transformer%20Models%20from%20Multi-Head%20Checkpoints.pdf) <br />
+
+#### Tokenization
+* [2016 (ACL) [BPE] Neural Machine Translation of Rare Words with Subword Units](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/01_AlgorithmOptimization/Tokenization/2016%20%28ACL%29%20%5BBPE%5D%20Neural%20Machine%20Translation%20of%20Rare%20Words%20with%20Subword%20Units.pdf) <br />
 
 ## 02_SystemOptimization
 * [2020 (Microsoft) [ZeRO] ZeRO - Memory Optimizations Toward Training Trillion Parameter Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/02_SystemOptimization/2020%20%28Microsoft%29%20%5BZeRO%5D%20ZeRO%20-%20Memory%20Optimizations%20Toward%20Training%20Trillion%20Parameter%20Models.pdf) <br />
@@ -128,11 +133,14 @@
 * [2023 (NIPS) [QLORA] QLORA - Efficient Finetuning of Quantized LLMs](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/05_Quant/2023%20%28NIPS%29%20%5BQLORA%5D%20QLORA%20-%20Efficient%20Finetuning%20of%20Quantized%20LLMs.pdf) <br />
 
 ## 06_SFT
+* [2019 (Google) (ICML) [Adapter] Parameter-Efficient Transfer Learning for NLP](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/06_SFT/2019%20%28Google%29%20%28ICML%29%20%5BAdapter%5D%20Parameter-Efficient%20Transfer%20Learning%20for%20NLP.pdf) <br />
 * [2021 (Microsoft) (Arxiv) [LORA] LoRA - Low-Rank Adaptation of Large Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/06_SFT/2021%20%28Microsoft%29%20%28Arxiv%29%20%5BLORA%5D%20LoRA%20-%20Low-Rank%20Adaptation%20of%20Large%20Language%20Models.pdf) <br />
+* [2023 （ACL) [UltraChat] Enhancing Chat Language Models by Scaling High-quality Instructional Conversations](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/06_SFT/2023%20%EF%BC%88ACL%29%20%5BUltraChat%5D%20Enhancing%20Chat%20Language%20Models%20by%20Scaling%20High-quality%20Instructional%20Conversations.pdf) <br />
 
 ## 07_RL
 * [2022 (OpenAI) (Arxiv) [PPO] Proximal Policy Optimization Algorithms](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/07_RL/2022%20%28OpenAI%29%20%28Arxiv%29%20%5BPPO%5D%20Proximal%20Policy%20Optimization%20Algorithms.pdf) <br />
 * [2023 (Stanford) (NIPS) [DPO] Direct Preference Optimization - Your Language Model is Secretly a Reward Model](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/07_RL/2023%20%28Stanford%29%20%28NIPS%29%20%5BDPO%5D%20Direct%20Preference%20Optimization%20-%20Your%20Language%20Model%20is%20Secretly%20a%20Reward%20Model.pdf) <br />
+* [2024 (ACL) ORPO - Monolithic Preference Optimization without Reference Model](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/07_RL/2024%20%28ACL%29%20ORPO%20-%20Monolithic%20Preference%20Optimization%20without%20Reference%20Model.pdf) <br />
 * [2024 (DeepSeek) (Arxiv) [GRPO] DeepSeekMath - Pushing the Limits of Mathematical Reasoning in Open Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/07_RL/2024%20%28DeepSeek%29%20%28Arxiv%29%20%5BGRPO%5D%20DeepSeekMath%20-%20Pushing%20the%20Limits%20of%20Mathematical%20Reasoning%20in%20Open%20Language%20Models.pdf) <br />
 * [2024 (DeepSeek) [GRPO] DeepSeekMath - Pushing the Limits of Mathematical Reasoning in Open Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/07_RL/2024%20%28DeepSeek%29%20%5BGRPO%5D%20DeepSeekMath%20-%20Pushing%20the%20Limits%20of%20Mathematical%20Reasoning%20in%20Open%20Language%20Models.pdf) <br />
 
@@ -142,15 +150,23 @@
 * [2023 (Meta) (Arxiv) [Toolformer] Toolformer - Language Models Can Teach Themselves to Use Tools](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/08_Application/2023%20%28Meta%29%20%28Arxiv%29%20%5BToolformer%5D%20Toolformer%20-%20Language%20Models%20Can%20Teach%20Themselves%20to%20Use%20Tools.pdf) <br />
 * [2024 (Princeton) (ICLR) [Llemma] Llemma - An Open Language Model For Mathematics](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/08_Application/2024%20%28Princeton%29%20%28ICLR%29%20%5BLlemma%5D%20Llemma%20-%20An%20Open%20Language%20Model%20For%20Mathematics.pdf) <br />
 
-## 09_Survey
-* [(2021) (Arxiv) Pre-train, Prompt, and Predict - A Systematic Survey of Prompting Methods in Natural Language Processing](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Survey/%282021%29%20%28Arxiv%29%20Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf) <br />
-* [(2024) (Arxiv) A Survey of Large Language Models for Recommendation](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Survey/%282024%29%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models%20for%20Recommendation.pdf) <br />
-* [(2024) (Arxiv) A Survey of Multimodal Large Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Survey/%282024%29%20%28Arxiv%29%20A%20Survey%20of%20Multimodal%20Large%20Language%20Models.pdf) <br />
-* [(2024) (Arxiv) Large Language Models for Information Retrieval - A Survey](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Survey/%282024%29%20%28Arxiv%29%20Large%20Language%20Models%20for%20Information%20Retrieval%20-%20A%20Survey.pdf) <br />
-* [(2025) (Arxiv) A Survey of Large Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Survey/%282025%29%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models.pdf) <br />
-* [2025 (Arxiv) A Survey of Large Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Survey/2025%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models.pdf) <br />
+## 09_Evaluation
+* [2002 (ACL) BLEU - a Method for Automatic Evaluation of Machine Translation](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2002%20%28ACL%29%20BLEU%20-%20a%20Method%20for%20Automatic%20Evaluation%20of%20Machine%20Translation.pdf) <br />
+* [2004 (ACL) ROUGE - A Package for Automatic Evaluation of Summaries](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2004%20%28ACL%29%20ROUGE%20-%20A%20Package%20for%20Automatic%20Evaluation%20of%20Summaries.pdf) <br />
+* [2019 (ICLR) (DeepMind) GLUE - A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2019%20%28ICLR%29%20%28DeepMind%29%20GLUE%20-%20A%20Multi-Task%20Benchmark%20and%20Analysis%20Platform%20for%20Natural%20Language%20Understanding.pdf) <br />
+* [2021 (Arxiv) (OpenAI) Evaluating Large Language Models Trained on Code](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2021%20%28Arxiv%29%20%28OpenAI%29%20Evaluating%20Large%20Language%20Models%20Trained%20on%20Code.pdf) <br />
+* [2022 (ACL) (OpenAI) TruthfulQA - Measuring How Models Mimic Human Falsehoods](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2022%20%28ACL%29%20%28OpenAI%29%20TruthfulQA%20-%20Measuring%20How%20Models%20Mimic%20Human%20Falsehoods.pdf) <br />
+* [2023 (NIPS) Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/2023%20%28NIPS%29%20Judging%20LLM-as-a-Judge%20with%20MT-Bench%20and%20Chatbot%20Arena.pdf) <br />
+* [Chatbot Arena - An Open Platform for Evaluating LLMs by Human Preference](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/09_Evaluation/Chatbot%20Arena%20-%20An%20Open%20Platform%20for%20Evaluating%20LLMs%20by%20Human%20Preference.pdf) <br />
 
 ## 10_Resources
 * [LLM book FDU zh](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/10_Resources/LLM%20book%20FDU%20zh.pdf) <br />
 * [LLM book RUC zh](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/10_Resources/LLM%20book%20RUC%20zh.pdf) <br />
 * [resources](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/10_Resources/resources.txt) <br />
+
+## 11_Survey
+* [(2021) (Arxiv) Pre-train, Prompt, and Predict - A Systematic Survey of Prompting Methods in Natural Language Processing](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/11_Survey/%282021%29%20%28Arxiv%29%20Pre-train%2C%20Prompt%2C%20and%20Predict%20-%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.pdf) <br />
+* [(2024) (Arxiv) A Survey of Large Language Models for Recommendation](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/11_Survey/%282024%29%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models%20for%20Recommendation.pdf) <br />
+* [(2024) (Arxiv) A Survey of Multimodal Large Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/11_Survey/%282024%29%20%28Arxiv%29%20A%20Survey%20of%20Multimodal%20Large%20Language%20Models.pdf) <br />
+* [(2024) (Arxiv) Large Language Models for Information Retrieval - A Survey](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/11_Survey/%282024%29%20%28Arxiv%29%20Large%20Language%20Models%20for%20Information%20Retrieval%20-%20A%20Survey.pdf) <br />
+* [(2025) (Arxiv) A Survey of Large Language Models](https://github.com/guyulongcs/Awesome-Large-Language-Models/blob/master/11_Survey/%282025%29%20%28Arxiv%29%20A%20Survey%20of%20Large%20Language%20Models.pdf) <br />
