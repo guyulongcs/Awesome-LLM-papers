@@ -1,3 +1,11 @@
-https://huggingface.co/
+Courses:
+https://github.com/rasbt/LLMs-from-scratch
+https://github.com/rasbt/reasoning-from-scratch
+
+
+Library:
+https://huggingface.co/docs/transformers/index
 https://docs.ray.io
 https://docs.vllm.ai
+https://ollama.com/
+https://github.com/ggml-org/llama.cpp
