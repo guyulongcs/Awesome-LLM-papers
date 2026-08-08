@@ -70908,3 +70908,560 @@ trailer << /Info 2 0 R /Root 1 0 R /Size 3372 /ID [<da0f0fb20939b490ab6a10614738
 startxref
 4967398
 %%EOF
+2 0 obj
+<< /DOI (https://doi.org/10.48550/arXiv.2501.12948) /arXivID (https://arxiv.org/abs/2501.12948v2)
+/License (http://arxiv.org/licenses/nonexclusive-distrib/1.0/) /Author (DeepSeek-AI; Daya Guo; Dejian Yang; Haowei Zhang; Junxiao Song; Peiyi Wang; Qihao Zhu; Runxin Xu; Ruoyu Zhang; Shirong Ma; Xiao Bi; Xiaokang Zhang; Xingkai Yu; Yu Wu; Z. F. Wu; Zhibin Gou; Zhihong Shao; Zhuoshu Li; Ziyi Gao; Aixin Liu; Bing Xue; Bingxuan Wang; Bochao Wu; Bei Feng; Chengda Lu; Chenggang Zhao; Chengqi Deng; Chenyu Zhang; Chong Ruan; Damai Dai; Deli Chen; Dongjie Ji; Erhang Li; Fangyun Lin; Fucong Dai; Fuli Luo; Guangbo Hao; Guanting Chen; Guowei Li; H. Zhang; Han Bao; Hanwei Xu; Haocheng Wang; Honghui Ding; Huajian Xin; Huazuo Gao; Hui Qu; Hui Li; Jianzhong Guo; Jiashi Li; Jiawei Wang; Jingchang Chen; Jingyang Yuan; Junjie Qiu; Junlong Li; J. L. Cai; Jiaqi Ni; Jian Liang; Jin Chen; Kai Dong; Kai Hu; Kaige Gao; Kang Guan; Kexin Huang; Kuai Yu; Lean Wang; Lecong Zhang; Liang Zhao; Litong Wang; Liyue Zhang; Lei Xu; Leyi Xia; Mingchuan Zhang; Minghua Zhang; Minghui Tang; Meng Li; Miaojun Wang; Mingming Li; Ning Tian; Panpan Huang; Peng Zhang; Qiancheng Wang; Qinyu Chen; Qiushi Du; Ruiqi Ge; Ruisong Zhang; Ruizhe Pan; Runji Wang; R. J. Chen; R. L. Jin; Ruyi Chen; Shanghao Lu; Shangyan Zhou; Shanhuang Chen; Shengfeng Ye; Shiyu Wang; Shuiping Yu; Shunfeng Zhou; Shuting Pan; S. S. Li; Shuang Zhou; Shaoqing Wu; Shengfeng Ye; Tao Yun; Tian Pei; Tianyu Sun; T. Wang; Wangding Zeng; Wanjia Zhao; Wen Liu; Wenfeng Liang; Wenjun Gao; Wenqin Yu; Wentao Zhang; W. L. Xiao; Wei An; Xiaodong Liu; Xiaohan Wang; Xiaokang Chen; Xiaotao Nie; Xin Cheng; Xin Liu; Xin Xie; Xingchao Liu; Xinyu Yang; Xinyuan Li; Xuecheng Su; Xuheng Lin; X. Q. Li; Xiangyue Jin; Xiaojin Shen; Xiaosha Chen; Xiaowen Sun; Xiaoxiang Wang; Xinnan Song; Xinyi Zhou; Xianzu Wang; Xinxia Shan; Y. K. Li; Y. Q. Wang; Y. X. Wei; Yang Zhang; Yanhong Xu; Yao Li; Yao Zhao; Yaofeng Sun; Yaohui Wang; Yi Yu; Yichao Zhang; Yifan Shi; Yiliang Xiong; Ying He; Yishi Piao; Yisong Wang; Yixuan Tan; Yiyang Ma; Yiyuan Liu; Yongqiang Guo; Yuan Ou; Yuduan Wang; Yue Gong; Yuheng Zou; Yujia He; Yunfan Xiong; Yuxiang Luo; Yuxiang You; Yuxuan Liu; Yuyang Zhou; Y. X. Zhu; Yanhong Xu; Yanping Huang; Yaohui Li; Yi Zheng; Yuchen Zhu; Yunxian Ma; Ying Tang; Yukun Zha; Yuting Yan; Z. Z. Ren; Zehui Ren; Zhangli Sha; Zhe Fu; Zhean Xu; Zhenda Xie; Zhengyan Zhang; Zhewen Hao; Zhicheng Ma; Zhigang Yan; Zhiyu Wu; Zihui Gu; Zijia Zhu; Zijun Liu; Zilin Li; Ziwei Xie; Ziyang Song; Zizheng Pan; Zhen Huang; Zhipeng Xu; Zhongyu Zhang; Zhen Zhang)
+/ModDate (D:20260808072956Z00'00') /Title (DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning)
+/PTEX.Fullbanner (This is pdfTeX, Version 3.141592653-2.6-1.40.28 \(TeX Live 2025\) kpathsea version 6.4.1)
+/Creator (arXiv GenPDF \(tex2pdf:57610bf\)) /Producer (macOS Version 26.5.1 \(Build 25F80\) Quartz PDFContext, AppendMode 1.1)
+/Trapped /False >>
+endobj
+9 0 obj
+<< /Annots [ 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R
+29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R
+40 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 47 0 R /Parent
+46 0 R /Rotate 0 /Contents [ 41 0 R 42 0 R 43 0 R 44 0 R ] /Group 45 0 R >>
+endobj
+94 0 obj
+<< /Annots [ 351 0 R 352 0 R 353 0 R 354 0 R 355 0 R 356 0 R 357 0 R 358 0 R
+359 0 R 360 0 R 361 0 R 362 0 R 363 0 R 364 0 R 365 0 R ] /Type /Page /MediaBox
+[ 0 0 595.276 841.89 ] /Resources 367 0 R /Parent 46 0 R /Rotate 0 /Contents
+366 0 R >>
+endobj
+95 0 obj
+<< /Annots [ 368 0 R 369 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 371 0 R /Parent 46 0 R /Rotate 0 /Contents 370 0 R >>
+endobj
+96 0 obj
+<< /Annots [ 372 0 R 373 0 R 374 0 R 375 0 R 376 0 R ] /Type /Page /MediaBox
+[ 0 0 595.276 841.89 ] /Resources 378 0 R /Parent 46 0 R /Rotate 0 /Contents
+377 0 R >>
+endobj
+97 0 obj
+<< /Annots [ 379 0 R 380 0 R 381 0 R 382 0 R 383 0 R 384 0 R 385 0 R ] /Type
+/Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 387 0 R /Parent 46 0 R /Rotate
+0 /Contents 386 0 R >>
+endobj
+98 0 obj
+<< /Annots [ 388 0 R 389 0 R 390 0 R 391 0 R 392 0 R ] /Type /Page /MediaBox
+[ 0 0 595.276 841.89 ] /Resources 395 0 R /Parent 46 0 R /Rotate 0 /Contents
+393 0 R /Group 394 0 R >>
+endobj
+115 0 obj
+<< /Annots [ 424 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+426 0 R /Parent 54 0 R /Rotate 0 /Contents 425 0 R >>
+endobj
+116 0 obj
+<< /Annots [ 427 0 R 428 0 R 429 0 R 430 0 R 431 0 R 432 0 R 433 0 R 434 0 R
+435 0 R 436 0 R 437 0 R 438 0 R 439 0 R 440 0 R 441 0 R 442 0 R 443 0 R 444 0 R
+445 0 R 446 0 R 447 0 R 448 0 R 449 0 R 450 0 R 451 0 R 452 0 R 453 0 R 454 0 R
+455 0 R 456 0 R 457 0 R 458 0 R 459 0 R 460 0 R 461 0 R 462 0 R 463 0 R 464 0 R
+] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 466 0 R /Parent
+54 0 R /Rotate 0 /Contents 465 0 R >>
+endobj
+117 0 obj
+<< /Annots [ 467 0 R 468 0 R 469 0 R 470 0 R ] /Type /Page /MediaBox [ 0 0
+595.276 841.89 ] /Resources 472 0 R /Parent 54 0 R /Rotate 0 /Contents 471 0 R
+>>
+endobj
+118 0 obj
+<< /Annots [ 473 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+475 0 R /Parent 54 0 R /Rotate 0 /Contents 474 0 R >>
+endobj
+119 0 obj
+<< /Resources 477 0 R /Type /Page /Contents 476 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 54 0 R >>
+endobj
+120 0 obj
+<< /Resources 479 0 R /Type /Page /Contents 478 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 54 0 R >>
+endobj
+121 0 obj
+<< /Annots [ 480 0 R 481 0 R 482 0 R 483 0 R 484 0 R 485 0 R 486 0 R 487 0 R
+488 0 R 489 0 R 490 0 R 491 0 R 492 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 494 0 R /Parent 55 0 R /Rotate 0 /Contents 493 0 R >>
+endobj
+122 0 obj
+<< /Annots [ 495 0 R 496 0 R 497 0 R 498 0 R 499 0 R 500 0 R 501 0 R 502 0 R
+503 0 R 504 0 R 505 0 R 506 0 R 507 0 R 508 0 R 509 0 R 510 0 R 511 0 R 512 0 R
+513 0 R 514 0 R 515 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+517 0 R /Parent 55 0 R /Rotate 0 /Contents 516 0 R >>
+endobj
+123 0 obj
+<< /Annots [ 518 0 R 519 0 R 520 0 R 521 0 R 522 0 R 523 0 R 524 0 R ] /Type
+/Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 526 0 R /Parent 55 0 R /Rotate
+0 /Contents 525 0 R >>
+endobj
+124 0 obj
+<< /Annots [ 527 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+529 0 R /Parent 55 0 R /Rotate 0 /Contents 528 0 R >>
+endobj
+125 0 obj
+<< /Annots [ 530 0 R 531 0 R 532 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 534 0 R /Parent 55 0 R /Rotate 0 /Contents 533 0 R >>
+endobj
+126 0 obj
+<< /Resources 536 0 R /Type /Page /Contents 535 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 55 0 R >>
+endobj
+127 0 obj
+<< /Annots [ 537 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+539 0 R /Parent 56 0 R /Rotate 0 /Contents 538 0 R >>
+endobj
+128 0 obj
+<< /Annots [ 540 0 R 541 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 543 0 R /Parent 56 0 R /Rotate 0 /Contents 542 0 R >>
+endobj
+129 0 obj
+<< /Annots [ 544 0 R 545 0 R 546 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 548 0 R /Parent 56 0 R /Rotate 0 /Contents 547 0 R >>
+endobj
+130 0 obj
+<< /Resources 550 0 R /Type /Page /Contents 549 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 56 0 R >>
+endobj
+131 0 obj
+<< /Resources 552 0 R /Type /Page /Contents 551 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 56 0 R >>
+endobj
+132 0 obj
+<< /Annots [ 553 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+555 0 R /Parent 56 0 R /Rotate 0 /Contents 554 0 R >>
+endobj
+133 0 obj
+<< /Resources 557 0 R /Type /Page /Contents 556 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 57 0 R >>
+endobj
+134 0 obj
+<< /Annots [ 558 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+560 0 R /Parent 57 0 R /Rotate 0 /Contents 559 0 R >>
+endobj
+135 0 obj
+<< /Annots [ 561 0 R 562 0 R 563 0 R 564 0 R ] /Type /Page /MediaBox [ 0 0
+595.276 841.89 ] /Resources 566 0 R /Parent 57 0 R /Rotate 0 /Contents 565 0 R
+>>
+endobj
+136 0 obj
+<< /Resources 568 0 R /Type /Page /Contents 567 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 57 0 R >>
+endobj
+137 0 obj
+<< /Resources 570 0 R /Type /Page /Contents 569 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 57 0 R >>
+endobj
+138 0 obj
+<< /Resources 572 0 R /Type /Page /Contents 571 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 57 0 R >>
+endobj
+139 0 obj
+<< /Resources 574 0 R /Type /Page /Contents 573 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 58 0 R >>
+endobj
+140 0 obj
+<< /Resources 576 0 R /Type /Page /Contents 575 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 58 0 R >>
+endobj
+141 0 obj
+<< /Resources 578 0 R /Type /Page /Contents 577 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 58 0 R >>
+endobj
+142 0 obj
+<< /Resources 580 0 R /Type /Page /Contents 579 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 58 0 R >>
+endobj
+143 0 obj
+<< /Annots [ 581 0 R 582 0 R 583 0 R 584 0 R 585 0 R 586 0 R 587 0 R 588 0 R
+589 0 R 590 0 R 591 0 R 592 0 R 593 0 R 594 0 R 595 0 R 596 0 R 597 0 R ]
+/Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 599 0 R /Parent 58 0 R
+/Rotate 0 /Contents 598 0 R >>
+endobj
+144 0 obj
+<< /Resources 601 0 R /Type /Page /Contents 600 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 58 0 R >>
+endobj
+145 0 obj
+<< /Annots [ 602 0 R 603 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 605 0 R /Parent 59 0 R /Rotate 0 /Contents 604 0 R >>
+endobj
+146 0 obj
+<< /Annots [ 606 0 R 607 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 609 0 R /Parent 59 0 R /Rotate 0 /Contents 608 0 R >>
+endobj
+147 0 obj
+<< /Annots [ 610 0 R 611 0 R 612 0 R 613 0 R 614 0 R 615 0 R 616 0 R 617 0 R
+618 0 R 619 0 R 620 0 R 621 0 R 622 0 R 623 0 R 624 0 R 625 0 R 626 0 R 627 0 R
+628 0 R 629 0 R 630 0 R 631 0 R 632 0 R 633 0 R 634 0 R 635 0 R 636 0 R 637 0 R
+638 0 R 639 0 R 640 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+642 0 R /Parent 59 0 R /Rotate 0 /Contents 641 0 R >>
+endobj
+148 0 obj
+<< /Annots [ 643 0 R 644 0 R 645 0 R 646 0 R 647 0 R 648 0 R 649 0 R 650 0 R
+651 0 R 652 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+654 0 R /Parent 59 0 R /Rotate 0 /Contents 653 0 R >>
+endobj
+149 0 obj
+<< /Resources 656 0 R /Type /Page /Contents 655 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 59 0 R >>
+endobj
+150 0 obj
+<< /Annots [ 657 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+659 0 R /Parent 59 0 R /Rotate 0 /Contents 658 0 R >>
+endobj
+151 0 obj
+<< /Annots [ 660 0 R 661 0 R 662 0 R 663 0 R ] /Type /Page /MediaBox [ 0 0
+595.276 841.89 ] /Resources 665 0 R /Parent 60 0 R /Rotate 0 /Contents 664 0 R
+>>
+endobj
+152 0 obj
+<< /Annots [ 666 0 R 667 0 R 668 0 R 669 0 R 670 0 R ] /Type /Page /MediaBox
+[ 0 0 595.276 841.89 ] /Resources 672 0 R /Parent 60 0 R /Rotate 0 /Contents
+671 0 R >>
+endobj
+153 0 obj
+<< /Resources 674 0 R /Type /Page /Contents 673 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 60 0 R >>
+endobj
+154 0 obj
+<< /Annots [ 675 0 R 676 0 R 677 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 679 0 R /Parent 60 0 R /Rotate 0 /Contents 678 0 R >>
+endobj
+155 0 obj
+<< /Annots [ 680 0 R 681 0 R 682 0 R 683 0 R 684 0 R 685 0 R 686 0 R 687 0 R
+688 0 R 689 0 R 690 0 R 691 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 693 0 R /Parent 60 0 R /Rotate 0 /Contents 692 0 R >>
+endobj
+156 0 obj
+<< /Annots [ 694 0 R 695 0 R 696 0 R 697 0 R ] /Type /Page /MediaBox [ 0 0
+595.276 841.89 ] /Resources 699 0 R /Parent 60 0 R /Rotate 0 /Contents 698 0 R
+>>
+endobj
+157 0 obj
+<< /Resources 701 0 R /Type /Page /Contents 700 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 61 0 R >>
+endobj
+158 0 obj
+<< /Annots [ 702 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+704 0 R /Parent 61 0 R /Rotate 0 /Contents 703 0 R >>
+endobj
+159 0 obj
+<< /Annots [ 705 0 R 706 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 708 0 R /Parent 61 0 R /Rotate 0 /Contents 707 0 R >>
+endobj
+160 0 obj
+<< /Resources 710 0 R /Type /Page /Contents 709 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 61 0 R >>
+endobj
+161 0 obj
+<< /Annots [ 711 0 R 712 0 R 713 0 R 714 0 R 715 0 R ] /Type /Page /MediaBox
+[ 0 0 595.276 841.89 ] /Resources 717 0 R /Parent 61 0 R /Rotate 0 /Contents
+716 0 R >>
+endobj
+162 0 obj
+<< /Annots [ 718 0 R 719 0 R 720 0 R 721 0 R ] /Type /Page /MediaBox [ 0 0
+595.276 841.89 ] /Resources 723 0 R /Parent 61 0 R /Rotate 0 /Contents 722 0 R
+>>
+endobj
+163 0 obj
+<< /Resources 725 0 R /Type /Page /Contents 724 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 62 0 R >>
+endobj
+164 0 obj
+<< /Annots [ 726 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+728 0 R /Parent 62 0 R /Rotate 0 /Contents 727 0 R >>
+endobj
+165 0 obj
+<< /Annots [ 729 0 R 730 0 R 731 0 R 732 0 R 733 0 R 734 0 R 735 0 R 736 0 R
+737 0 R 738 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+740 0 R /Parent 62 0 R /Rotate 0 /Contents 739 0 R >>
+endobj
+166 0 obj
+<< /Resources 742 0 R /Type /Page /Contents 741 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 62 0 R >>
+endobj
+167 0 obj
+<< /Annots [ 743 0 R 744 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89
+] /Resources 746 0 R /Parent 62 0 R /Rotate 0 /Contents 745 0 R >>
+endobj
+168 0 obj
+<< /Annots [ 747 0 R 748 0 R 749 0 R 750 0 R 751 0 R 752 0 R 753 0 R 754 0 R
+755 0 R 756 0 R 757 0 R 758 0 R 759 0 R 760 0 R ] /Type /Page /MediaBox [
+0 0 595.276 841.89 ] /Resources 762 0 R /Parent 62 0 R /Rotate 0 /Contents
+761 0 R >>
+endobj
+169 0 obj
+<< /Annots 3372 0 R /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+773 0 R /Parent 63 0 R /Rotate 0 /Contents 772 0 R >>
+endobj
+170 0 obj
+<< /Annots [ 774 0 R 775 0 R 776 0 R 777 0 R 778 0 R 779 0 R 780 0 R 781 0 R
+782 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 784 0 R
+/Parent 63 0 R /Rotate 0 /Contents 783 0 R >>
+endobj
+171 0 obj
+<< /Annots [ 785 0 R 786 0 R 787 0 R 788 0 R 789 0 R 790 0 R 791 0 R 792 0 R
+793 0 R 794 0 R 795 0 R 796 0 R 797 0 R 798 0 R 799 0 R 800 0 R ] /Type /Page
+/MediaBox [ 0 0 595.276 841.89 ] /Resources 802 0 R /Parent 63 0 R /Rotate
+0 /Contents 801 0 R >>
+endobj
+172 0 obj
+<< /Annots [ 803 0 R 804 0 R 805 0 R 806 0 R 807 0 R 808 0 R 809 0 R 810 0 R
+811 0 R 812 0 R 813 0 R 814 0 R 815 0 R 816 0 R 817 0 R 818 0 R 819 0 R 820 0 R
+821 0 R 822 0 R 823 0 R 824 0 R 825 0 R 826 0 R 827 0 R 828 0 R 829 0 R ]
+/Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 831 0 R /Parent 63 0 R
+/Rotate 0 /Contents 830 0 R >>
+endobj
+173 0 obj
+<< /Annots [ 832 0 R 833 0 R 834 0 R 835 0 R 836 0 R 837 0 R 838 0 R 839 0 R
+840 0 R 841 0 R 842 0 R 843 0 R 844 0 R 845 0 R 846 0 R 847 0 R 848 0 R 849 0 R
+850 0 R 851 0 R 852 0 R 853 0 R 854 0 R 855 0 R 856 0 R 857 0 R 858 0 R 859 0 R
+860 0 R 861 0 R 862 0 R 863 0 R 864 0 R 865 0 R 866 0 R 867 0 R 868 0 R 869 0 R
+870 0 R 871 0 R 872 0 R 873 0 R 874 0 R 875 0 R 876 0 R 877 0 R 878 0 R 879 0 R
+880 0 R 881 0 R 882 0 R 883 0 R 884 0 R 885 0 R 886 0 R 887 0 R 888 0 R 889 0 R
+890 0 R 891 0 R 892 0 R 893 0 R 894 0 R 895 0 R 896 0 R 897 0 R 898 0 R 899 0 R
+900 0 R 901 0 R 902 0 R 903 0 R 904 0 R 905 0 R 906 0 R 907 0 R 908 0 R 909 0 R
+910 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 912 0 R
+/Parent 63 0 R /Rotate 0 /Contents 911 0 R >>
+endobj
+174 0 obj
+<< /Annots 3376 0 R /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+914 0 R /Parent 63 0 R /Rotate 0 /Contents 913 0 R >>
+endobj
+175 0 obj
+<< /Resources 916 0 R /Type /Page /Contents 915 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 64 0 R >>
+endobj
+176 0 obj
+<< /Resources 918 0 R /Type /Page /Contents 917 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 64 0 R >>
+endobj
+177 0 obj
+<< /Resources 920 0 R /Type /Page /Contents 919 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 64 0 R >>
+endobj
+178 0 obj
+<< /Resources 922 0 R /Type /Page /Contents 921 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 64 0 R >>
+endobj
+179 0 obj
+<< /Resources 924 0 R /Type /Page /Contents 923 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 64 0 R >>
+endobj
+180 0 obj
+<< /Resources 926 0 R /Type /Page /Contents 925 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 64 0 R >>
+endobj
+181 0 obj
+<< /Resources 928 0 R /Type /Page /Contents 927 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 65 0 R >>
+endobj
+182 0 obj
+<< /Resources 930 0 R /Type /Page /Contents 929 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 65 0 R >>
+endobj
+183 0 obj
+<< /Resources 932 0 R /Type /Page /Contents 931 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 65 0 R >>
+endobj
+184 0 obj
+<< /Resources 934 0 R /Type /Page /Contents 933 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 65 0 R >>
+endobj
+185 0 obj
+<< /Resources 936 0 R /Type /Page /Contents 935 0 R /Rotate 0 /MediaBox [
+0 0 595.276 841.89 ] /Parent 65 0 R >>
+endobj
+186 0 obj
+<< /Annots [ 937 0 R ] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources
+939 0 R /Parent 65 0 R /Rotate 0 /Contents 938 0 R >>
+endobj
+187 0 obj
+<< /Annots [ 940 0 R 941 0 R 942 0 R 943 0 R 944 0 R 945 0 R 946 0 R 947 0 R
+] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 949 0 R /Parent
+66 0 R /Rotate 0 /Contents 948 0 R >>
+endobj
+188 0 obj
+<< /Annots [ 950 0 R 951 0 R 952 0 R 953 0 R 954 0 R 955 0 R 956 0 R 957 0 R
+958 0 R 959 0 R 960 0 R 961 0 R 962 0 R 963 0 R ] /Type /Page /MediaBox [
+0 0 595.276 841.89 ] /Resources 965 0 R /Parent 66 0 R /Rotate 0 /Contents
+964 0 R >>
+endobj
+189 0 obj
+<< /Annots [ 966 0 R 967 0 R 968 0 R 969 0 R 970 0 R 971 0 R 972 0 R 973 0 R
+974 0 R 975 0 R 976 0 R 977 0 R 978 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 980 0 R /Parent 66 0 R /Rotate 0 /Contents 979 0 R >>
+endobj
+190 0 obj
+<< /Annots [ 981 0 R 982 0 R 983 0 R 984 0 R 985 0 R 986 0 R 987 0 R 988 0 R
+989 0 R 990 0 R 991 0 R 992 0 R 993 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 995 0 R /Parent 66 0 R /Rotate 0 /Contents 994 0 R >>
+endobj
+191 0 obj
+<< /Annots [ 996 0 R 997 0 R 998 0 R 999 0 R 1000 0 R 1001 0 R 1002 0 R 1003 0 R
+1004 0 R 1005 0 R 1006 0 R 1007 0 R 1008 0 R ] /Type /Page /MediaBox [ 0 0
+595.276 841.89 ] /Resources 1010 0 R /Parent 66 0 R /Rotate 0 /Contents 1009 0 R
+>>
+endobj
+192 0 obj
+<< /Annots [ 1011 0 R 1012 0 R 1013 0 R 1014 0 R 1015 0 R 1016 0 R 1017 0 R
+1018 0 R 1019 0 R 1020 0 R 1021 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 1023 0 R /Parent 66 0 R /Rotate 0 /Contents 1022 0 R >>
+endobj
+193 0 obj
+<< /Annots [ 1024 0 R 1025 0 R 1026 0 R 1027 0 R 1028 0 R 1029 0 R 1030 0 R
+] /Type /Page /MediaBox [ 0 0 595.276 841.89 ] /Resources 1032 0 R /Parent
+67 0 R /Rotate 0 /Contents 1031 0 R >>
+endobj
+194 0 obj
+<< /Annots [ 1033 0 R 1034 0 R 1035 0 R 1036 0 R 1037 0 R 1038 0 R 1039 0 R
+1040 0 R 1041 0 R 1042 0 R 1043 0 R ] /Type /Page /MediaBox [ 0 0 595.276
+841.89 ] /Resources 1045 0 R /Parent 67 0 R /Rotate 0 /Contents 1044 0 R >>
+endobj
+3372 0 obj
+[ 763 0 R 764 0 R 765 0 R 766 0 R 767 0 R 768 0 R 769 0 R 770 0 R 771 0 R
+3373 0 R 3374 0 R 3375 0 R ]
+endobj
+3373 0 obj
+<< /T (þÿŒ7€²Ÿ™) /AP << /N 0 0 R >> /Rect [ 239.4216 620.2651 314.4989 638.2651
+] /M (D:20260808070517Z00'00') /AAPL:SFF true /DA (//Helvetica 10 Tf 0 g)
+/F 4 /AAPL:AKExtras << /AAPL:AKPDFAnnotationDictionary << /T (þÿŒ7€²Ÿ™) /AP
+<< /N 0 0 R >> /Rect [ 239.4216 620.2651 314.4989 638.2651 ] /AAPL:SFF true
+/F 4 /DA (//Helvetica 10 Tf 0 g) /Type /Annot /Border [ 0 0 0 ] /M (D:20260808070517Z00'00')
+/Subtype /FreeText >> /AAPL:AKAnnotationObject (YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEB8LDEBBQkZMWltcXV5fYGFiZmpueHl6e4GEiY2VlpmbVSRudWxs3xAbDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCgqKywtLi8wKzIvKDQsLjYuNDgoKyguPT4/XxAYc2hvdWxkVXNlUGxhY2Vob2xkZXJUZXh0XxARdGV4dElzRml4ZWRIZWlnaHRfEBN0eXBpbmdBdHRyaWJ1dGVzUlRGXxAQdGV4dElzRml4ZWRXaWR0aF8QF29yaWdpbmFsRXhpZk9yaWVudGF0aW9uXxAcb3JpZ2luYWxNb2RlbEJhc2VTY2FsZUZhY3Rvcl8QEmZvcmVncm91bmRDb2xvclNEUl1yb3RhdGlvbkFuZ2xlVmFrVmVyc18QEEFLSXNGb3JtRmllbGRLZXlWJGNsYXNzW3N0cm9rZVdpZHRoXXRleHRJc0NsaXBwZWRaYnJ1c2hTdHlsZVZha1BsYXRfEA9maWxsQ29sb3JTdHJpbmdfEBBtb2RpZmljYXRpb25EYXRlXxARc3Ryb2tlQ29sb3JTdHJpbmdfEA9mb3JtQ29udGVudFR5cGVUVVVJRFloYXNTaGFkb3dfEB5lZGl0c0Rpc2FibGVBcHBlYXJhbmNlT3ZlcnJpZGVWZGFzaGVkXxAVY3VzdG9tUGxhY2Vob2xkZXJUZXh0WXJlY3RhbmdsZV8QEHR5cGluZ0F0dHJpYnV0ZXNWYXV0aG9yCAiAEAkQASM/8AAAAAAAAIAAIwAAAAAAAAAAEAIJgB4IEACAAIAEgACAAggJCIAAgAaAEoADXxAkOEEyN0RDOTQtMkExQS00MjI5LUFCQTgtMjlDRTNDQUMzMjFCY4w3gLKfmdJDF0RFV05TLnRpbWUjQcgThlbTabqABdJHSElKWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNEYXRloklLWE5TT2JqZWN0001OF09UWVdOUy5rZXlzWk5TLm9iamVjdHOkUFFSU4AHgAiACYAKpFVWV1iAC4AMgA2ADoAPVVdpZHRoVkhlaWdodFFZUVgjQFJE8vcT6rgjQDAAAAAAAAAjQINqHucRMWwjQG4NfeTiGWbSR0hjZF8QE05TTXV0YWJsZURpY3Rpb25hcnmjY2VLXE5TRGljdGlvbmFyedJnF2hpV05TLmRhdGFPEOV7XHJ0ZjFcYW5zaVxhbnNpY3BnMTI1Mlxjb2NvYXJ0ZjI4NzAKXGNvY29hdGV4dHNjYWxpbmcwXGNvY29hcGxhdGZvcm0we1xmb250dGJsXGYwXGZzd2lzc1xmY2hhcnNldDAgSGVsdmV0aWNhO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQpccGFyZFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyMCBcY2YwIGF9gBHSR0hrbF1OU011dGFibGVEYXRho2ttS1ZOU0RhdGHTTU4Xb3N3o3BxcoATgBSAFaN0dXaAFoAYgBqAHVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0ZvbnTTfH0Xfn+AV05TV2hpdGVcTlNDb2xvclNwYWNlQjAAEAOAF9JHSIKDV05TQ29sb3KigkvThReGLIcuXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzgBmAANJHSIqLXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjioxLXxAQTlNQYXJhZ3JhcGhTdHlsZdSOj5AXkZKTlFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lI0AkAAAAAAAAEBCAG4AcWUhlbHZldGljYdJHSJeYVk5TRm9udKKXS9JHSGWaomVL0kdInJ1fEBNBS1RleHRCb3hBbm5vdGF0aW9upp6foKGiS18QE0FLVGV4dEJveEFubm90YXRpb25fEBxBS1JlY3Rhbmd1bGFyU2hhcGVBbm5vdGF0aW9uXxARQUtTaGFwZUFubm90YXRpb25fEBNBS1N0cm9rZWRBbm5vdGF0aW9uXEFLQW5ub3RhdGlvbgAIABEAGgAkACkAMgA3AEkATABRAFMAdQB7ALQAzwDjAPkBDAEmAUUBWgFoAW8BggGJAZUBowGuAbUBxwHaAe4CAAIFAg8CMAI3Ak8CWQJsAnMCdAJ1AncCeAJ6AoMChQKOApACkQKTApQClgKYApoCnAKeAp8CoAKhAqMCpQKnAqkC0ALXAtwC5ALtAu8C9AL/AwgDDwMSAxsDIgMqAzUDOgM8Az4DQANCA0cDSQNLA00DTwNRA1cDXgNgA2IDawN0A30DhgOLA6EDpQOyA7cDvwSnBKkErgS8BMAExwTOBNIE1ATWBNgE3ATeBOAE4gTkBOwE/wUGBQ0FFQUiBSUFJwUpBS4FNgU5BUAFYgVtBW8FcQV2BZAFlAWnBbAFtwXABccF0AXSBdQF1gXgBeUF7AXvBfQF9wX8BhIGGQYvBk4GYgZ4AAAAAAAAAgEAAAAAAAAAowAAAAAAAAAAAAAAAAAABoU=)
+>> /Subtype /FreeText /Type /Annot /Border [ 0 0 0 ] >>
+endobj
+3374 0 obj
+<< /T (þÿŒ7€²Ÿ™) /AP << /N 0 0 R >> /Rect [ 62.08765 605.5099 230.7763 623.5099
+] /M (D:20260808070516Z00'00') /AAPL:SFF true /DA (//Helvetica 10 Tf 0 g)
+/F 4 /AAPL:AKExtras << /AAPL:AKPDFAnnotationDictionary << /T (þÿŒ7€²Ÿ™) /AP
+<< /N 0 0 R >> /Rect [ 62.08765 605.5099 230.7763 623.5099 ] /AAPL:SFF true
+/F 4 /DA (//Helvetica 10 Tf 0 g) /Type /Annot /Border [ 0 0 0 ] /M (D:20260808070516Z00'00')
+/Subtype /FreeText >> /AAPL:AKAnnotationObject (YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEB8LDEBBQkZMWltcXV5fYGFiZmpueHl6e4GEiY2VlpmbVSRudWxs3xAbDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCgqKywtLi8wKzIvKDQsLjYuNDgoKyguPT4/XxAYc2hvdWxkVXNlUGxhY2Vob2xkZXJUZXh0XxARdGV4dElzRml4ZWRIZWlnaHRfEBN0eXBpbmdBdHRyaWJ1dGVzUlRGXxAQdGV4dElzRml4ZWRXaWR0aF8QF29yaWdpbmFsRXhpZk9yaWVudGF0aW9uXxAcb3JpZ2luYWxNb2RlbEJhc2VTY2FsZUZhY3Rvcl8QEmZvcmVncm91bmRDb2xvclNEUl1yb3RhdGlvbkFuZ2xlVmFrVmVyc18QEEFLSXNGb3JtRmllbGRLZXlWJGNsYXNzW3N0cm9rZVdpZHRoXXRleHRJc0NsaXBwZWRaYnJ1c2hTdHlsZVZha1BsYXRfEA9maWxsQ29sb3JTdHJpbmdfEBBtb2RpZmljYXRpb25EYXRlXxARc3Ryb2tlQ29sb3JTdHJpbmdfEA9mb3JtQ29udGVudFR5cGVUVVVJRFloYXNTaGFkb3dfEB5lZGl0c0Rpc2FibGVBcHBlYXJhbmNlT3ZlcnJpZGVWZGFzaGVkXxAVY3VzdG9tUGxhY2Vob2xkZXJUZXh0WXJlY3RhbmdsZV8QEHR5cGluZ0F0dHJpYnV0ZXNWYXV0aG9yCAiAEAkQASM/8AAAAAAAAIAAIwAAAAAAAAAAEAIJgB4IEACAAIAEgACAAggJCIAAgAaAEoADXxAkNzUyQUNGNDMtQUNGOS00QkU0LTlBOEMtMzlDMzhDN0M3MjY5Y4w3gLKfmdJDF0RFV05TLnRpbWUjQcgThlZy3jyABdJHSElKWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNEYXRloklLWE5TT2JqZWN0001OF09UWVdOUy5rZXlzWk5TLm9iamVjdHOkUFFSU4AHgAiACYAKpFVWV1iAC4AMgA2ADoAPVVdpZHRoVkhlaWdodFFZUVgjQGTWCUQxnOIjQDAAAAAAAAAjQIL0FFZ8k1gjQE+LOARt5tLSR0hjZF8QE05TTXV0YWJsZURpY3Rpb25hcnmjY2VLXE5TRGljdGlvbmFyedJnF2hpV05TLmRhdGFPEOV7XHJ0ZjFcYW5zaVxhbnNpY3BnMTI1Mlxjb2NvYXJ0ZjI4NzAKXGNvY29hdGV4dHNjYWxpbmcwXGNvY29hcGxhdGZvcm0we1xmb250dGJsXGYwXGZzd2lzc1xmY2hhcnNldDAgSGVsdmV0aWNhO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQpccGFyZFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyMCBcY2YwIGF9gBHSR0hrbF1OU011dGFibGVEYXRho2ttS1ZOU0RhdGHTTU4Xb3N3o3BxcoATgBSAFaN0dXaAFoAYgBqAHVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0ZvbnTTfH0Xfn+AV05TV2hpdGVcTlNDb2xvclNwYWNlQjAAEAOAF9JHSIKDV05TQ29sb3KigkvThReGLIcuXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzgBmAANJHSIqLXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjioxLXxAQTlNQYXJhZ3JhcGhTdHlsZdSOj5AXkZKTlFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lI0AkAAAAAAAAEBCAG4AcWUhlbHZldGljYdJHSJeYVk5TRm9udKKXS9JHSGWaomVL0kdInJ1fEBNBS1RleHRCb3hBbm5vdGF0aW9upp6foKGiS18QE0FLVGV4dEJveEFubm90YXRpb25fEBxBS1JlY3Rhbmd1bGFyU2hhcGVBbm5vdGF0aW9uXxARQUtTaGFwZUFubm90YXRpb25fEBNBS1N0cm9rZWRBbm5vdGF0aW9uXEFLQW5ub3RhdGlvbgAIABEAGgAkACkAMgA3AEkATABRAFMAdQB7ALQAzwDjAPkBDAEmAUUBWgFoAW8BggGJAZUBowGuAbUBxwHaAe4CAAIFAg8CMAI3Ak8CWQJsAnMCdAJ1AncCeAJ6AoMChQKOApACkQKTApQClgKYApoCnAKeAp8CoAKhAqMCpQKnAqkC0ALXAtwC5ALtAu8C9AL/AwgDDwMSAxsDIgMqAzUDOgM8Az4DQANCA0cDSQNLA00DTwNRA1cDXgNgA2IDawN0A30DhgOLA6EDpQOyA7cDvwSnBKkErgS8BMAExwTOBNIE1ATWBNgE3ATeBOAE4gTkBOwE/wUGBQ0FFQUiBSUFJwUpBS4FNgU5BUAFYgVtBW8FcQV2BZAFlAWnBbAFtwXABccF0AXSBdQF1gXgBeUF7AXvBfQF9wX8BhIGGQYvBk4GYgZ4AAAAAAAAAgEAAAAAAAAAowAAAAAAAAAAAAAAAAAABoU=)
+>> /Subtype /FreeText /Type /Annot /Border [ 0 0 0 ] >>
+endobj
+3375 0 obj
+<< /T (þÿŒ7€²Ÿ™) /AP << /N 0 0 R >> /Rect [ 259.8988 181.1146 351.926 199.1146
+] /M (D:20260808070628Z00'00') /AAPL:SFF true /DA (//Helvetica 10 Tf 0 g)
+/F 4 /AAPL:AKExtras << /AAPL:AKPDFAnnotationDictionary << /T (þÿŒ7€²Ÿ™) /AP
+<< /N 0 0 R >> /Rect [ 259.8988 181.1146 351.926 199.1146 ] /AAPL:SFF true
+/F 4 /DA (//Helvetica 10 Tf 0 g) /Type /Annot /Border [ 0 0 0 ] /M (D:20260808070628Z00'00')
+/Subtype /FreeText >> /AAPL:AKAnnotationObject (YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEB8LDEBBQkZMWltcXV5fYGFiZmpueHl6e4GEiY2VlpmbVSRudWxs3xAbDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCgqKywtLi8wKzIvKDQsLjYuNDgoKyguPT4/XxAYc2hvdWxkVXNlUGxhY2Vob2xkZXJUZXh0XxARdGV4dElzRml4ZWRIZWlnaHRfEBN0eXBpbmdBdHRyaWJ1dGVzUlRGXxAQdGV4dElzRml4ZWRXaWR0aF8QF29yaWdpbmFsRXhpZk9yaWVudGF0aW9uXxAcb3JpZ2luYWxNb2RlbEJhc2VTY2FsZUZhY3Rvcl8QEmZvcmVncm91bmRDb2xvclNEUl1yb3RhdGlvbkFuZ2xlVmFrVmVyc18QEEFLSXNGb3JtRmllbGRLZXlWJGNsYXNzW3N0cm9rZVdpZHRoXXRleHRJc0NsaXBwZWRaYnJ1c2hTdHlsZVZha1BsYXRfEA9maWxsQ29sb3JTdHJpbmdfEBBtb2RpZmljYXRpb25EYXRlXxARc3Ryb2tlQ29sb3JTdHJpbmdfEA9mb3JtQ29udGVudFR5cGVUVVVJRFloYXNTaGFkb3dfEB5lZGl0c0Rpc2FibGVBcHBlYXJhbmNlT3ZlcnJpZGVWZGFzaGVkXxAVY3VzdG9tUGxhY2Vob2xkZXJUZXh0WXJlY3RhbmdsZV8QEHR5cGluZ0F0dHJpYnV0ZXNWYXV0aG9yCAiAEAkQASM/8AAAAAAAAIAAIwAAAAAAAAAAEAIJgB4IEACAAIAEgACAAggJCIAAgAaAEoADXxAkRjM5QjYzNzUtOTUxRi00ODM3LUJCNjYtRTU1RTNGMzNFN0QzY4w3gLKfmdJDF0RFV05TLnRpbWUjQcgThnpuy5aABdJHSElKWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNEYXRloklLWE5TT2JqZWN0001OF09UWVdOUy5rZXlzWk5TLm9iamVjdHOkUFFSU4AHgAiACYAKpFVWV1iAC4AMgA2ADoAPVVdpZHRoVkhlaWdodFFZUVgjQFaBvcybi6wjQDAAAAAAAAAjQGbDqzCU9rIjQHBOYZFmTDDSR0hjZF8QE05TTXV0YWJsZURpY3Rpb25hcnmjY2VLXE5TRGljdGlvbmFyedJnF2hpV05TLmRhdGFPEOV7XHJ0ZjFcYW5zaVxhbnNpY3BnMTI1Mlxjb2NvYXJ0ZjI4NzAKXGNvY29hdGV4dHNjYWxpbmcwXGNvY29hcGxhdGZvcm0we1xmb250dGJsXGYwXGZzd2lzc1xmY2hhcnNldDAgSGVsdmV0aWNhO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQpccGFyZFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyMCBcY2YwIGF9gBHSR0hrbF1OU011dGFibGVEYXRho2ttS1ZOU0RhdGHTTU4Xb3N3o3BxcoATgBSAFaN0dXaAFoAYgBqAHVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0ZvbnTTfH0Xfn+AV05TV2hpdGVcTlNDb2xvclNwYWNlQjAAEAOAF9JHSIKDV05TQ29sb3KigkvThReGLIcuXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzgBmAANJHSIqLXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjioxLXxAQTlNQYXJhZ3JhcGhTdHlsZdSOj5AXkZKTlFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lI0AkAAAAAAAAEBCAG4AcWUhlbHZldGljYdJHSJeYVk5TRm9udKKXS9JHSGWaomVL0kdInJ1fEBNBS1RleHRCb3hBbm5vdGF0aW9upp6foKGiS18QE0FLVGV4dEJveEFubm90YXRpb25fEBxBS1JlY3Rhbmd1bGFyU2hhcGVBbm5vdGF0aW9uXxARQUtTaGFwZUFubm90YXRpb25fEBNBS1N0cm9rZWRBbm5vdGF0aW9uXEFLQW5ub3RhdGlvbgAIABEAGgAkACkAMgA3AEkATABRAFMAdQB7ALQAzwDjAPkBDAEmAUUBWgFoAW8BggGJAZUBowGuAbUBxwHaAe4CAAIFAg8CMAI3Ak8CWQJsAnMCdAJ1AncCeAJ6AoMChQKOApACkQKTApQClgKYApoCnAKeAp8CoAKhAqMCpQKnAqkC0ALXAtwC5ALtAu8C9AL/AwgDDwMSAxsDIgMqAzUDOgM8Az4DQANCA0cDSQNLA00DTwNRA1cDXgNgA2IDawN0A30DhgOLA6EDpQOyA7cDvwSnBKkErgS8BMAExwTOBNIE1ATWBNgE3ATeBOAE4gTkBOwE/wUGBQ0FFQUiBSUFJwUpBS4FNgU5BUAFYgVtBW8FcQV2BZAFlAWnBbAFtwXABccF0AXSBdQF1gXgBeUF7AXvBfQF9wX8BhIGGQYvBk4GYgZ4AAAAAAAAAgEAAAAAAAAAowAAAAAAAAAAAAAAAAAABoU=)
+>> /Subtype /FreeText /Type /Annot /Border [ 0 0 0 ] >>
+endobj
+3376 0 obj
+[ 3377 0 R ]
+endobj
+3377 0 obj
+<< /T (þÿŒ7€²Ÿ™) /AP << /N 0 0 R >> /Rect [ 408.5079 191.72 520.2099 207.72
+] /M (D:20260808071851Z00'00') /AAPL:SFF true /DA (//Helvetica 8 Tf 0 g) /F
+4 /AAPL:AKExtras << /AAPL:AKPDFAnnotationDictionary << /T (þÿŒ7€²Ÿ™) /AP <<
+/N 0 0 R >> /Rect [ 408.5079 191.72 520.2099 207.72 ] /AAPL:SFF true /F 4
+/DA (//Helvetica 8 Tf 0 g) /Type /Annot /Border [ 0 0 0 ] /M (D:20260808071851Z00'00')
+/Subtype /FreeText >> /AAPL:AKAnnotationObject (YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGvEB8LDEBBQkZMWltcXV5fYGFiZmpueHl6e4GEiY2VlpmbVSRudWxs3xAbDQ4PEBESExQVFhcYGRobHB0eHyAhIiMkJSYnKCgqKywtLi8wKzIvKDQsLjYuNDgoKyguPT4/XxAYc2hvdWxkVXNlUGxhY2Vob2xkZXJUZXh0XxARdGV4dElzRml4ZWRIZWlnaHRfEBN0eXBpbmdBdHRyaWJ1dGVzUlRGXxAQdGV4dElzRml4ZWRXaWR0aF8QF29yaWdpbmFsRXhpZk9yaWVudGF0aW9uXxAcb3JpZ2luYWxNb2RlbEJhc2VTY2FsZUZhY3Rvcl8QEmZvcmVncm91bmRDb2xvclNEUl1yb3RhdGlvbkFuZ2xlVmFrVmVyc18QEEFLSXNGb3JtRmllbGRLZXlWJGNsYXNzW3N0cm9rZVdpZHRoXXRleHRJc0NsaXBwZWRaYnJ1c2hTdHlsZVZha1BsYXRfEA9maWxsQ29sb3JTdHJpbmdfEBBtb2RpZmljYXRpb25EYXRlXxARc3Ryb2tlQ29sb3JTdHJpbmdfEA9mb3JtQ29udGVudFR5cGVUVVVJRFloYXNTaGFkb3dfEB5lZGl0c0Rpc2FibGVBcHBlYXJhbmNlT3ZlcnJpZGVWZGFzaGVkXxAVY3VzdG9tUGxhY2Vob2xkZXJUZXh0WXJlY3RhbmdsZV8QEHR5cGluZ0F0dHJpYnV0ZXNWYXV0aG9yCAiAEAkQASM/8AAAAAAAAIAAIwAAAAAAAAAAEAIJgB4IEACAAIAEgACAAggJCIAAgAaAEoADXxAkNkI5MDY0NEUtREI1NS00Q0UyLTlBNzQtNjdGNzAxRjAwN0I4Y4w3gLKfmdJDF0RFV05TLnRpbWUjQcgTh+3z9JmABdJHSElKWiRjbGFzc25hbWVYJGNsYXNzZXNWTlNEYXRloklLWE5TT2JqZWN0001OF09UWVdOUy5rZXlzWk5TLm9iamVjdHOkUFFSU4AHgAiACYAKpFVWV1iAC4AMgA2ADoAPVVdpZHRoVkhlaWdodFFZUVgjQFts7q6g+QgjQCwAAAAAAAAjQGgXCemTEJ4jQHmYIC5Qo9jSR0hjZF8QE05TTXV0YWJsZURpY3Rpb25hcnmjY2VLXE5TRGljdGlvbmFyedJnF2hpV05TLmRhdGFPEOV7XHJ0ZjFcYW5zaVxhbnNpY3BnMTI1Mlxjb2NvYXJ0ZjI4NzAKXGNvY29hdGV4dHNjYWxpbmcwXGNvY29hcGxhdGZvcm0we1xmb250dGJsXGYwXGZzd2lzc1xmY2hhcnNldDAgSGVsdmV0aWNhO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQpccGFyZFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMxNiBcY2YwIGF9gBHSR0hrbF1OU011dGFibGVEYXRho2ttS1ZOU0RhdGHTTU4Xb3N3o3BxcoATgBSAFaN0dXaAFoAYgBqAHVdOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0ZvbnTTfH0Xfn+AV05TV2hpdGVcTlNDb2xvclNwYWNlQjAAEAOAF9JHSIKDV05TQ29sb3KigkvThReGLIcuXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzgBmAANJHSIqLXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjioxLXxAQTlNQYXJhZ3JhcGhTdHlsZdSOj5AXkZKTlFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lI0AgAAAAAAAAEBCAG4AcWUhlbHZldGljYdJHSJeYVk5TRm9udKKXS9JHSGWaomVL0kdInJ1fEBNBS1RleHRCb3hBbm5vdGF0aW9upp6foKGiS18QE0FLVGV4dEJveEFubm90YXRpb25fEBxBS1JlY3Rhbmd1bGFyU2hhcGVBbm5vdGF0aW9uXxARQUtTaGFwZUFubm90YXRpb25fEBNBS1N0cm9rZWRBbm5vdGF0aW9uXEFLQW5ub3RhdGlvbgAIABEAGgAkACkAMgA3AEkATABRAFMAdQB7ALQAzwDjAPkBDAEmAUUBWgFoAW8BggGJAZUBowGuAbUBxwHaAe4CAAIFAg8CMAI3Ak8CWQJsAnMCdAJ1AncCeAJ6AoMChQKOApACkQKTApQClgKYApoCnAKeAp8CoAKhAqMCpQKnAqkC0ALXAtwC5ALtAu8C9AL/AwgDDwMSAxsDIgMqAzUDOgM8Az4DQANCA0cDSQNLA00DTwNRA1cDXgNgA2IDawN0A30DhgOLA6EDpQOyA7cDvwSnBKkErgS8BMAExwTOBNIE1ATWBNgE3ATeBOAE4gTkBOwE/wUGBQ0FFQUiBSUFJwUpBS4FNgU5BUAFYgVtBW8FcQV2BZAFlAWnBbAFtwXABccF0AXSBdQF1gXgBeUF7AXvBfQF9wX8BhIGGQYvBk4GYgZ4AAAAAAAAAgEAAAAAAAAAowAAAAAAAAAAAAAAAAAABoU=)
+>> /Subtype /FreeText /Type /Annot /Border [ 0 0 0 ] >>
+endobj
+xref
+0 1
+0000000000 65535 f 
+2 1
+0005034998 00000 n 
+9 1
+0005037971 00000 n 
+94 5
+0005038295 00000 n 
+0005038556 00000 n 
+0005038713 00000 n 
+0005038894 00000 n 
+0005039091 00000 n 
+115 80
+0005039287 00000 n 
+0005039437 00000 n 
+0005039883 00000 n 
+0005040057 00000 n 
+0005040207 00000 n 
+0005040337 00000 n 
+0005040467 00000 n 
+0005040713 00000 n 
+0005041023 00000 n 
+0005041221 00000 n 
+0005041371 00000 n 
+0005041537 00000 n 
+0005041667 00000 n 
+0005041817 00000 n 
+0005041975 00000 n 
+0005042141 00000 n 
+0005042271 00000 n 
+0005042401 00000 n 
+0005042551 00000 n 
+0005042681 00000 n 
+0005042831 00000 n 
+0005043005 00000 n 
+0005043135 00000 n 
+0005043265 00000 n 
+0005043395 00000 n 
+0005043525 00000 n 
+0005043655 00000 n 
+0005043785 00000 n 
+0005043915 00000 n 
+0005044193 00000 n 
+0005044323 00000 n 
+0005044481 00000 n 
+0005044639 00000 n 
+0005045029 00000 n 
+0005045251 00000 n 
+0005045381 00000 n 
+0005045531 00000 n 
+0005045705 00000 n 
+0005045887 00000 n 
+0005046017 00000 n 
+0005046183 00000 n 
+0005046421 00000 n 
+0005046595 00000 n 
+0005046725 00000 n 
+0005046875 00000 n 
+0005047033 00000 n 
+0005047163 00000 n 
+0005047345 00000 n 
+0005047519 00000 n 
+0005047649 00000 n 
+0005047799 00000 n 
+0005048021 00000 n 
+0005048151 00000 n 
+0005048309 00000 n 
+0005048563 00000 n 
+0005048710 00000 n 
+0005048924 00000 n 
+0005049194 00000 n 
+0005049552 00000 n 
+0005050326 00000 n 
+0005050473 00000 n 
+0005050603 00000 n 
+0005050733 00000 n 
+0005050863 00000 n 
+0005050993 00000 n 
+0005051123 00000 n 
+0005051253 00000 n 
+0005051383 00000 n 
+0005051513 00000 n 
+0005051643 00000 n 
+0005051773 00000 n 
+0005051903 00000 n 
+0005052053 00000 n 
+0005052259 00000 n 
+0005052513 00000 n 
+0005052759 00000 n 
+0005053005 00000 n 
+0005053262 00000 n 
+0005053505 00000 n 
+0005053712 00000 n 
+3372 6
+0005053955 00000 n 
+0005054076 00000 n 
+0005057303 00000 n 
+0005060530 00000 n 
+0005063755 00000 n 
+0005063786 00000 n 
+trailer
+<< /ID [<DA0F0FB20939B490AB6A10614738F6D9><A24778EF5CBFA533D8C48F77C5586EFF> ] /Root 1 0 R /Size 3378 /Prev 4967398 /Info 2 0 R >> 
+startxref
+5067003
+%%EOF
