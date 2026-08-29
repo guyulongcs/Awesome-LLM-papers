@@ -102,7 +102,6 @@
 * [2025 (Alibaba) (Arxiv) [Qwen3-VL] Qwen3-VL Technical Report](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/3_Alibaba/2025%20%28Alibaba%29%20%28Arxiv%29%20%5BQwen3-VL%5D%20Qwen3-VL%20Technical%20Report.pdf) <br />
 * [2025 (Alibaba) (Arxiv) [Qwen3] Qwen3 Technical Report](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/3_Alibaba/2025%20%28Alibaba%29%20%28Arxiv%29%20%5BQwen3%5D%20Qwen3%20Technical%20Report.pdf) <br />
 * [2025 (Alibaba) (NIPS) [Gated Attention] Gated AttentionforLarge LanguageModels - Non-linearity,Sparsity, and Attention-Sink-Free](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/3_Alibaba/2025%20%28Alibaba%29%20%28NIPS%29%20%5BGated%20Attention%5D%20Gated%20AttentionforLarge%20LanguageModels%20-%20Non-linearity%2CSparsity%2C%20and%20Attention-Sink-Free.pdf) <br />
-* [2026 (Alibaba) (Arxiv) Qwen3-Coder-Next Technical Report copy](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/3_Alibaba/2026%20%28Alibaba%29%20%28Arxiv%29%20Qwen3-Coder-Next%20Technical%20Report%20copy.pdf) <br />
 * [2026 (Alibaba) (Arxiv) Qwen3-Coder-Next Technical Report](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/3_Alibaba/2026%20%28Alibaba%29%20%28Arxiv%29%20Qwen3-Coder-Next%20Technical%20Report.pdf) <br />
 * [2026 (Alibaba) (Arxiv) Qwen3.5-Omni Technical Report](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/3_Alibaba/2026%20%28Alibaba%29%20%28Arxiv%29%20Qwen3.5-Omni%20Technical%20Report.pdf) <br />
 
@@ -149,7 +148,6 @@
 * [2025 （MiniMax) (Arxiv) SynLogic - Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/7_MiniMax/2025%20%EF%BC%88MiniMax%29%20%28Arxiv%29%20SynLogic%20-%20Synthesizing%20Verifiable%20Reasoning%20Data%20at%20Scale%20for%20Learning%20Logical%20Reasoning%20and%20Beyond.pdf) <br />
 * [2026 (MiniMax) (Arxiv) MiniMax Sparse Attention](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/7_MiniMax/2026%20%28MiniMax%29%20%28Arxiv%29%20MiniMax%20Sparse%20Attention.pdf) <br />
 * [2026 （MiniMax) (Arxiv) One RL to See Them All - Visual Triple Unified Reinforcement Learning](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/7_MiniMax/2026%20%EF%BC%88MiniMax%29%20%28Arxiv%29%20One%20RL%20to%20See%20Them%20All%20-%20Visual%20Triple%20Unified%20Reinforcement%20Learning.pdf) <br />
-* [2026 （MiniMax) (Arxiv) The MiniMax-M2 Series - Mini Activations Unleashing Max Real-World Intelligence copy](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/7_MiniMax/2026%20%EF%BC%88MiniMax%29%20%28Arxiv%29%20The%20MiniMax-M2%20Series%20-%20Mini%20Activations%20Unleashing%20Max%20Real-World%20Intelligence%20copy.pdf) <br />
 * [2026 （MiniMax) (Arxiv) The MiniMax-M2 Series - Mini Activations Unleashing Max Real-World Intelligence](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/7_MiniMax/2026%20%EF%BC%88MiniMax%29%20%28Arxiv%29%20The%20MiniMax-M2%20Series%20-%20Mini%20Activations%20Unleashing%20Max%20Real-World%20Intelligence.pdf) <br />
 
 #### 8_Mistral
@@ -159,6 +157,7 @@
 * [2023 (Microsoft) (NIPS) [LLaVA] Visual Instruction Tuning](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/00_Organizations/9_Microsoft/2023%20%28Microsoft%29%20%28NIPS%29%20%5BLLaVA%5D%20Visual%20Instruction%20Tuning.pdf) <br />
 
 ## 01_Model
+
 
 #### 00_Transformer
 * [2017 (Google) (NIPS) [Transformer] Attention Is All You Need](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/01_Model/00_Transformer/2017%20%28Google%29%20%28NIPS%29%20%5BTransformer%5D%20Attention%20Is%20All%20You%20Need.pdf) <br />
@@ -330,7 +329,6 @@
 * [2024 (Deepseek) (ACL) [DeepSeekMoE] DeepSeekMoE - Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/08_MOE/2024%20%28Deepseek%29%20%28ACL%29%20%5BDeepSeekMoE%5D%20DeepSeekMoE%20-%20Towards%20Ultimate%20Expert%20Specialization%20in%20Mixture-of-Experts%20Language%20Models.pdf) <br />
 * [2024 (Google) (ICLR) [SoftMoE] From Sparse to Soft Mixtures of Experts](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/08_MOE/2024%20%28Google%29%20%28ICLR%29%20%5BSoftMoE%5D%20From%20Sparse%20to%20Soft%20Mixtures%20of%20Experts.pdf) <br />
 * [2025 （ICLR) [ReMoE] ReMoE - Fully Differentiable Mixture-of-Experts with ReLU Routing](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/08_MOE/2025%20%EF%BC%88ICLR%29%20%5BReMoE%5D%20ReMoE%20-%20Fully%20Differentiable%20Mixture-of-Experts%20with%20ReLU%20Routing.pdf) <br />
-* [2026 (Nvidia) (Arxiv) [LatentMoE] LatentMoE - Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts copy](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/08_MOE/2026%20%28Nvidia%29%20%28Arxiv%29%20%5BLatentMoE%5D%20LatentMoE%20-%20Toward%20Optimal%20Accuracy%20per%20FLOP%20and%20Parameter%20in%20Mixture%20of%20Experts%20copy.pdf) <br />
 * [2026 (Nvidia) (Arxiv) [LatentMoE] LatentMoE - Toward Optimal Accuracy per FLOP and Parameter in Mixture of Experts](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/08_MOE/2026%20%28Nvidia%29%20%28Arxiv%29%20%5BLatentMoE%5D%20LatentMoE%20-%20Toward%20Optimal%20Accuracy%20per%20FLOP%20and%20Parameter%20in%20Mixture%20of%20Experts.pdf) <br />
 
 ## 09_Multi-Modal-LLMs
@@ -373,13 +371,17 @@
 * [2020 (Meta) (NIPS) [RAG]  Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/10_Application/RAG/2020%20%28Meta%29%20%28NIPS%29%20%5BRAG%5D%20%20Retrieval-Augmented%20Generation%20for%20Knowledge-Intensive%20NLP%20Tasks.pdf) <br />
 
 ## 11_MixedPrecision
-* [2018 (Baidu) (ICLR) Mixed Precision Training](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2018%20%28Baidu%29%20%28ICLR%29%20Mixed%20Precision%20Training.pdf) <br />
+* [2017 (Google） （Arxiv) [QAT] Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2017%20%28Google%EF%BC%89%20%EF%BC%88Arxiv%29%20%5BQAT%5D%20Quantization%20and%20Training%20of%20Neural%20Networks%20for%20Efficient%20Integer-Arithmetic-Only%20Inference.pdf) <br />
+* [2018 (Baidu) (ICLR) [FP16] Mixed Precision Training](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2018%20%28Baidu%29%20%28ICLR%29%20%5BFP16%5D%20Mixed%20Precision%20Training.pdf) <br />
 * [2019 (Intel) (Arxiv) [BF16] A Study of BFLOAT16 for Deep Learning Training](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2019%20%28Intel%29%20%28Arxiv%29%20%5BBF16%5D%20A%20Study%20of%20BFLOAT16%20for%20Deep%20Learning%20Training.pdf) <br />
+* [2022 (NIPS) [Int8] LLM.int8() - 8-bit Matrix Multiplication for Transformers at Scale](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2022%20%28NIPS%29%20%5BInt8%5D%20LLM.int8%28%29%20-%208-bit%20Matrix%20Multiplication%20for%20Transformers%20at%20Scale.pdf) <br />
+* [2022 (NVIDIA) (FP8) FP8 Formats for Deep Learning](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2022%20%28NVIDIA%29%20%28FP8%29%20FP8%20Formats%20for%20Deep%20Learning.pdf) <br />
 * [2023 (Arxiv) Microscaling Data Formats for Deep Learning](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2023%20%28Arxiv%29%20Microscaling%20Data%20Formats%20for%20Deep%20Learning.pdf) <br />
 * [2023 (ICLR) [GPTQ] GPTQ - Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2023%20%28ICLR%29%20%5BGPTQ%5D%20GPTQ%20-%20Accurate%20Post-Training%20Quantization%20for%20Generative%20Pre-trained%20Transformers.pdf) <br />
 * [2023 (Microsft) [FP8] FP8-LM - Training FP8 Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2023%20%28Microsft%29%20%5BFP8%5D%20FP8-LM%20-%20Training%20FP8%20Large%20Language%20Models.pdf) <br />
 * [2023 (NIPS) [QLORA] QLORA - Efficient Finetuning of Quantized LLMs](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2023%20%28NIPS%29%20%5BQLORA%5D%20QLORA%20-%20Efficient%20Finetuning%20of%20Quantized%20LLMs.pdf) <br />
-* [2023 (Nvidia) (ICML) [SmoothQuant ] SmoothQuant - Accurate and Efficient Post-Training Quantization for Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2023%20%28Nvidia%29%20%28ICML%29%20%5BSmoothQuant%20%5D%20SmoothQuant%20-%20Accurate%20and%20Efficient%20Post-Training%20Quantization%20for%20Large%20Language%20Models.pdf) <br />
+* [2023 (Nvidia) (ICML) [SmoothQuant] SmoothQuant - Accurate and Efficient Post-Training Quantization for Large Language Models](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2023%20%28Nvidia%29%20%28ICML%29%20%5BSmoothQuant%5D%20SmoothQuant%20-%20Accurate%20and%20Efficient%20Post-Training%20Quantization%20for%20Large%20Language%20Models.pdf) <br />
+* [2024 （MLSys) [AWQ] AWQ - Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/11_MixedPrecision/2024%20%EF%BC%88MLSys%29%20%5BAWQ%5D%20AWQ%20-%20Activation-aware%20Weight%20Quantization%20for%20LLM%20Compression%20and%20Acceleration.pdf) <br />
 
 ## 12_Evaluation
 * [2002 (ACL) BLEU - a Method for Automatic Evaluation of Machine Translation](https://github.com/guyulongcs/Awesome-LLM-papers/blob/master/12_Evaluation/2002%20%28ACL%29%20BLEU%20-%20a%20Method%20for%20Automatic%20Evaluation%20of%20Machine%20Translation.pdf) <br />
